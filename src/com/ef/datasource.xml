@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<data-source>
+    <parameter key="db_driver" value="com.mysql.jdbc.Driver"/>
+    <parameter key="db_url" value="jdbc:mysql://localhost:3306/"/>
+    <parameter key="db_schema" value="wallethub"/>
+    <parameter key="db_user_name" value="root"/>
+    <parameter key="db_password" value="admin"/>
+</data-source>
