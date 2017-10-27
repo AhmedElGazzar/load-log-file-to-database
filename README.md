@@ -26,7 +26,5 @@ Date, IP, Request, Status, User Agent (pipe delimited, open the example file in 
 
 Date Format: "yyyy-MM-dd HH:mm:ss.SSS"
 
-Also, please find attached a log file for your reference. 
-
 The log file assumes 200 as hourly limit and 500 as daily limit, meaning:
 
